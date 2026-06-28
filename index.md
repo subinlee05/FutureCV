@@ -3,7 +3,7 @@
 ## 기본 정보
 - 이름: 이수빈
 - 이메일: 2subiiin@gmail.com
-- GitHub: github.com/subinlee05
+- GitHub: [GitHub](https://github.com/subinlee05)
 - 희망 직무: AI 기반 디지털 서비스를 위한 UI/UX 디자이너
 
 ## 자기소개
